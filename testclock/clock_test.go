@@ -12,7 +12,7 @@ import (
 
 	qt "github.com/frankban/quicktest"
 
-	"github.com/juju/clock/testclock"
+	"github.com/rogpeppe/clock/testclock"
 )
 
 func TestNow(t *testing.T) {

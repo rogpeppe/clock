@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/juju/clock"
+	"github.com/rogpeppe/clock"
 )
 
 // timer implements a mock clock.Timer for testing purposes.

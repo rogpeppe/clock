@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/juju/clock/monotonic"
+	"github.com/rogpeppe/clock/monotonic"
 )
 
 func TestNow(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/juju/clock
+module github.com/rogpeppe/clock
 
 go 1.13
 
